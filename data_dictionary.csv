@@ -1,0 +1,11 @@
+column_name,description,data_type
+id,Unique identifier assigned to each vehicle record,Integer
+model,Model name of the Ford vehicle,Categorical
+year,Year the vehicle was registered or manufactured,Integer
+price,Price of the vehicle,Numeric
+transmission,Type of transmission used by the vehicle,Categorical
+mileage,Mileage of the vehicle,Categorical/Numeric
+fuelType,Type of fuel used by the vehicle,Categorical
+tax,Vehicle tax amount,Numeric
+mpg,Miles per gallon fuel efficiency,Numeric
+engineSize,Engine size in litres,Numeric
